@@ -13,6 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if lowercare "HUH?! SPEAK UP, SONNY!"
-  elsif "LOVE YOU GRANDMA!" "I LOVE YOU TOO PUMPKIN!""
-  else 
+  if uppercase
+  elsif 
+  else "HUH?! SPEAK UP, SONNY!"
